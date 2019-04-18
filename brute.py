@@ -36,7 +36,7 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
+    runntxt(GL+"              welcome thoken azter. ^_^")
     runntxt(WW+"     ___      _           _         _      __")
     runntxt(WW+"    |_ _|__ _| |__   __ _| |____   | |__  / _|")
     runntxt(GL+"     | |/ _` | '_ \ / _` | |_  /   | '_ \| |_")
@@ -47,15 +47,15 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: IQBALZ NOOBS             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |            FACEBOOK: Iqbalznoobs            |"
-    print Y+"  |             INSTAGRAM: IQBALZ5              |"
+    print WW+"  |            MOD BY: THOKEN AZTER             |"
+    print GL+"  |       ROKOK DOLO BARU PAKE       |"
+    print WW+"  |            FACEBOOK: Thoken Azter            |"
+    print Y+"  |             INSTAGRAM: Thoken-azter              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GL+"  |•••••••••   HACK FACEBOOK  ^_^   •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
